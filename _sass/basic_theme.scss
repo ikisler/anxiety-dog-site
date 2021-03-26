@@ -1,0 +1,648 @@
+/*! Grawlix | Stick figure - v1.1 | getgrawlix.com 
+ */
+
+/* 
+ * LET’S GO!
+ * Here’s the deal: Coding is hard. It’s tedious. 
+ * It’s infuriating. It’s one letter out of place 
+ * place and your whole project goes out the 
+ * proverbial window.
+ * 
+ * Our goal is to help artists — that’s you — publish
+ * comics on the web. Publish, not debug. So we 
+ * documented this theme to help you get started in 
+ * a hurry. You want to change something? It’s 
+ * probably here. 
+*/
+
+/* USEFUL LINKS
+ * When in doubt, ask for help at www.getgrawlix.com/forum.
+ * Learn about CSS at http://htmldog.com/guides/css/ 
+ * and http://www.w3schools.com/css/.
+ * Get updates at twitter.com/grawlixcomix/.
+ * Support us and get insider info at patreon.com/grawlixocmix/.
+ */
+
+/* HEY CSS PURISTS:
+ * We used px, not ems or rems, because our users think 
+ * in pixels, not typographic units. Normally we’d go 
+ * for content-first measurements like rems or ems, 
+ * but in this case pixels make more sense. Adjust
+ * the code below as you see fit.
+ */
+
+
+
+
+/* GENERAL BODY 
+ * Site-wide parameters. When in doubt, readers’ 
+ * browsers defer to this. Learn about background
+ * properties at 
+ * https://css-tricks.com/almanac/properties/b/background/
+*/
+
+body {
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Verdana, sans-serif;
+  font-size: 10pt;
+  line-height: 20pt;
+  background-color: white;
+  background-image: none;
+  background-repeat: repeat;
+}
+
+a {
+	color: blue;
+}
+a:hover {
+	color: orange;
+}
+
+
+
+
+/* IMAGE STYLE
+ * We recommend you leave this alone unless you understand RWD. 
+ * Learn more at https://css-tricks.com/almanac/properties/m/max-width/
+ */
+
+a img { border: none; }
+img { max-width: 100%; }
+figure { margin: 0; }
+
+
+
+/* COMIC _SITE_ WIDTH 
+ * This controls the overall size of your comic site. 
+ * Remember that your comic image — the graphic 
+ * you upload — might be smaller than this container.
+ * More info: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+ * Examples: http://mediaqueri.es
+ */
+
+/* Make it float in the center. */
+.container, .follow, main {
+  margin: 0px auto;
+}
+
+/* “Media queries” let us adjust our web designs based
+ * on how wide a reader’s screen is. For example, 
+ * if your comic is 1200 pixels wide but the reader’s 
+ * monitor is only 1024 — say, a wide tablet — then 
+ * media queries say “only display the comic for wide 
+ * tablets.”
+ */
+
+/* SMARTPHONES: For readers with screens 480 pixels wide or less */
+@media only screen and (max-width: 480px) {
+  .container, .follow, main { max-width: 480px; }
+}
+
+/* TABLETS: Screens between 481 and 768 pixels wide */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .container, .follow, main { max-width: 600px; }
+}
+
+/* MEDIUM MONITORS: Screens between 769 and 960 pixels wide */
+@media only screen and (min-width: 769px) and (max-width: 960px) {
+  .container, .follow, main { max-width: 960px; }
+}
+
+/* LARGE MONITORS: Screens 961 pixels and larger */
+@media only screen and (min-width: 961px) {
+  .container, .follow, main { max-width: 960px; }
+}
+
+
+
+
+/* COMIC _IMAGE_ WIDTH 
+ * These media queries determine how wide 
+ * comic graphics (the art readers come to
+ * see on your site) is.
+ * 
+ * Handy tip: For best layout, make this 
+ * width less than the .container width. 
+ */
+
+#comic figure {
+	margin: 0 auto;
+	padding: 0;
+}
+
+/* SMARTPHONES: For readers with screens 480 pixels wide or less */
+@media only screen and (max-width: 480px) {
+  #comic figure { max-width: 480px; }
+}
+
+/* TABLETS: Screens between 481 and 768 pixels wide */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  #comic figure { max-width: 600px; }
+}
+
+/* MEDIUM MONITORS: Screens between 769 and 960 pixels wide */
+@media only screen and (min-width: 769px) and (max-width: 960px) {
+  #comic figure { max-width: 960px; }
+}
+
+/* LARGE MONITORS: Screens 961 pixels and larger */
+@media only screen and (min-width: 961px) {
+  #comic figure { max-width: 960px; }
+}
+
+/* Fun fact: This doesn’t actually shrink 
+ * your comic image’s file size. Instead it 
+ * crams the same pixels into a smaller space. 
+ */
+
+
+
+/* BLOG POST
+ * Paragraphs in the news-of-the-day 
+ * message.
+ */
+#blog-post {
+	clear: both; /* Ensures this goes on its own row. */
+}
+
+#blog-post p {
+	color: #333;
+}
+
+#blog-post h3 {
+	color: #222;
+}
+
+#blog-post .meta {
+	color: #555;
+}
+
+#transcript {
+}
+
+
+
+/* GROUPS
+ * Include site-wide navigation (a.k.a. 
+ * the menu) and back/next links. 
+ * Clear: both translates to “make this 
+ * its own line.”
+ */
+.button-group {
+  clear: both;
+}
+
+/* Set groups of buttons into horizontal rows. */
+.button-group li {
+  display: block;
+  float: left;
+}
+.button-group li a {
+  padding: 10px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+
+
+
+/* LAYOUT
+ * Static pages arrange their content in different 
+ * ways. This controls how those ways relate to 
+ * each other on the page.
+ */
+
+/* Header stretches ACROSS both columns, image on the RIGHT. */
+.fullheader header {
+}
+.fullheader div {
+	width: 48%;
+	float: left;
+}
+.fullheader figure {
+	width: 48%;
+	float: right;
+}
+
+
+/* Header stretches ACROSS both columns, image on the LEFT. */
+.fullheader.transpose header {
+}
+.fullheader.transpose div {
+	width: 48%;
+	float: right;
+}
+.fullheader.transpose figure {
+	width: 48%;
+	float: left;
+}
+
+
+/* Header in the LEFT column, image on the RIGHT. */
+.samewidth header {
+}
+.samewidth div {
+	float: left;
+	width: 48%;
+}
+.samewidth figure {
+	width: 48%;
+	float: right;
+}
+
+/* Header in the RIGHT column, image on the LEFT. */
+.samewidth.transpose header {
+}
+.samewidth.transpose div {
+	float: right;
+	width: 48%;
+}
+.samewidth.transpose figure {
+	width: 48%;
+	float: left;
+}
+
+
+/* Old-fashioned break, but it’s reliable 
+ * across every major browser. Someday we’ll 
+ * adopt Flexobox. Someday …
+ */
+.clearfix {
+	clear: both;
+}
+
+
+
+
+/* What else would you like to see?
+ * Share your thoughts about this theme
+ * with the community at:
+ * http://www.getgrawlix.com/forum/categories/feedback
+ */
+
+
+
+
+
+
+
+
+
+
+
+/* Wait — what’s all this?! 
+ * Some parts of Grawlix require a grid. This one is 
+ * from Foundation 5 (foundation.zurb.com), and supports 
+ * certain layouts in the archives. It’s compressed 
+ * for brevity’s sake.
+ */
+.clearfix:before,.clearfix:after{
+	content:" ";
+	display:table;
+}
+[class*="block-grid-"]:after{
+	clear:both
+}
+[class*="block-grid-"]>li{
+	display:block;float:left;height:auto;padding:0 0.625rem 1.25rem
+}
+@media only screen{
+	.small-block-grid-1>li{
+		list-style:none;width:100%
+	}
+	.small-block-grid-1>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-1>li:nth-of-type(1n+1){
+		clear:both
+	}
+	.small-block-grid-2>li{
+		list-style:none;width:50%
+	}
+	.small-block-grid-2>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-2>li:nth-of-type(2n+1){
+		clear:both
+	}
+	.small-block-grid-3>li{
+		list-style:none;width:33.33333%
+	}
+	.small-block-grid-3>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-3>li:nth-of-type(3n+1){
+		clear:both
+	}
+	.small-block-grid-4>li{
+		list-style:none;width:25%
+	}
+	.small-block-grid-4>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-4>li:nth-of-type(4n+1){
+		clear:both
+	}
+	.small-block-grid-5>li{
+		list-style:none;width:20%
+	}
+	.small-block-grid-5>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-5>li:nth-of-type(5n+1){
+		clear:both
+	}
+	.small-block-grid-6>li{
+		list-style:none;width:16.66667%
+	}
+	.small-block-grid-6>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-6>li:nth-of-type(6n+1){
+		clear:both
+	}
+	.small-block-grid-7>li{
+		list-style:none;width:14.28571%
+	}
+	.small-block-grid-7>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-7>li:nth-of-type(7n+1){
+		clear:both
+	}
+	.small-block-grid-8>li{
+		list-style:none;width:12.5%
+	}
+	.small-block-grid-8>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-8>li:nth-of-type(8n+1){
+		clear:both
+	}
+	.small-block-grid-9>li{
+		list-style:none;width:11.11111%
+	}
+	.small-block-grid-9>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-9>li:nth-of-type(9n+1){
+		clear:both
+	}
+	.small-block-grid-10>li{
+		list-style:none;width:10%
+	}
+	.small-block-grid-10>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-10>li:nth-of-type(10n+1){
+		clear:both
+	}
+	.small-block-grid-11>li{
+		list-style:none;width:9.09091%
+	}
+	.small-block-grid-11>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-11>li:nth-of-type(11n+1){
+		clear:both
+	}
+	.small-block-grid-12>li{
+		list-style:none;width:8.33333%
+	}
+	.small-block-grid-12>li:nth-of-type(1n){
+		clear:none
+	}
+	.small-block-grid-12>li:nth-of-type(12n+1){
+		clear:both
+	}
+}
+
+@media only screen and (min-width: 40.0625em){
+	.medium-block-grid-1>li{
+		list-style:none;width:100%
+	}
+	.medium-block-grid-1>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-1>li:nth-of-type(1n+1){
+		clear:both
+	}
+	.medium-block-grid-2>li{
+		list-style:none;width:50%
+	}
+	.medium-block-grid-2>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-2>li:nth-of-type(2n+1){
+		clear:both
+	}
+	.medium-block-grid-3>li{
+		list-style:none;width:33.33333%
+	}
+	.medium-block-grid-3>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-3>li:nth-of-type(3n+1){
+		clear:both
+	}
+	.medium-block-grid-4>li{
+		list-style:none;width:25%
+	}
+	.medium-block-grid-4>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-4>li:nth-of-type(4n+1){
+		clear:both
+	}
+	.medium-block-grid-5>li{
+		list-style:none;width:20%
+	}
+	.medium-block-grid-5>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-5>li:nth-of-type(5n+1){
+		clear:both
+	}
+	.medium-block-grid-6>li{
+		list-style:none;width:16.66667%
+	}
+	.medium-block-grid-6>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-6>li:nth-of-type(6n+1){
+		clear:both
+	}
+	.medium-block-grid-7>li{
+		list-style:none;width:14.28571%
+	}
+	.medium-block-grid-7>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-7>li:nth-of-type(7n+1){
+		clear:both
+	}
+	.medium-block-grid-8>li{
+		list-style:none;width:12.5%
+	}
+	.medium-block-grid-8>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-8>li:nth-of-type(8n+1){
+		clear:both
+	}
+	.medium-block-grid-9>li{
+		list-style:none;width:11.11111%
+	}
+	.medium-block-grid-9>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-9>li:nth-of-type(9n+1){
+		clear:both
+	}
+	.medium-block-grid-10>li{
+		list-style:none;width:10%
+	}
+	.medium-block-grid-10>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-10>li:nth-of-type(10n+1){
+		clear:both
+	}
+	.medium-block-grid-11>li{
+		list-style:none;width:9.09091%
+	}
+	.medium-block-grid-11>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-11>li:nth-of-type(11n+1){
+		clear:both
+	}
+	.medium-block-grid-12>li{
+		list-style:none;width:8.33333%
+	}
+	.medium-block-grid-12>li:nth-of-type(1n){
+		clear:none
+	}
+	.medium-block-grid-12>li:nth-of-type(12n+1){
+		clear:both
+	}
+
+}
+
+@media only screen and (min-width: 60.0625em){
+		.large-block-grid-1>li{
+		list-style:none;width:100%
+	}
+	.large-block-grid-1>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-1>li:nth-of-type(1n+1){
+		clear:both
+	}
+	.large-block-grid-2>li{
+		list-style:none;width:50%
+	}
+	.large-block-grid-2>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-2>li:nth-of-type(2n+1){
+		clear:both
+	}
+	.large-block-grid-3>li{
+		list-style:none;width:33.33333%
+	}
+	.large-block-grid-3>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-3>li:nth-of-type(3n+1){
+		clear:both
+	}
+	.large-block-grid-4>li{
+		list-style:none;width:25%
+	}
+	.large-block-grid-4>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-4>li:nth-of-type(4n+1){
+		clear:both
+	}
+	.large-block-grid-5>li{
+		list-style:none;width:20%
+	}
+	.large-block-grid-5>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-5>li:nth-of-type(5n+1){
+		clear:both
+	}
+	.large-block-grid-6>li{
+		list-style:none;width:16.66667%
+	}
+	.large-block-grid-6>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-6>li:nth-of-type(6n+1){
+		clear:both
+	}
+	.large-block-grid-7>li{
+		list-style:none;width:14.28571%
+	}
+	.large-block-grid-7>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-7>li:nth-of-type(7n+1){
+		clear:both
+	}
+	.large-block-grid-8>li{
+		list-style:none;width:12.5%
+	}
+	.large-block-grid-8>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-8>li:nth-of-type(8n+1){
+		clear:both
+	}
+	.large-block-grid-9>li{
+		list-style:none;width:11.11111%
+	}
+	.large-block-grid-9>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-9>li:nth-of-type(9n+1){
+		clear:both
+	}
+	.large-block-grid-10>li{
+		list-style:none;width:10%
+	}
+	.large-block-grid-10>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-10>li:nth-of-type(10n+1){
+		clear:both
+	}
+	.large-block-grid-11>li{
+		list-style:none;width:9.09091%
+	}
+	.large-block-grid-11>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-11>li:nth-of-type(11n+1){
+		clear:both
+	}
+	.large-block-grid-12>li{
+		list-style:none;width:8.33333%
+	}
+	.large-block-grid-12>li:nth-of-type(1n){
+		clear:none
+	}
+	.large-block-grid-12>li:nth-of-type(12n+1){
+		clear:both
+	}
+}
+

@@ -1,0 +1,167 @@
+/*** General ***/
+body {
+	background-color: #80b266;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*** Header ***/
+header {
+	text-align: center;
+}
+
+/*
+header img {
+	width: 800px;
+	height: 200px;;
+}
+*/
+
+/*** Body ***/
+.comic-container {
+	position: relative;
+	text-align: center;
+}
+
+article {
+	margin: 10px auto;
+}
+
+article a {
+	color: #000;
+}
+
+article a:hover {
+	color: #39552b;
+}
+
+#blog-post, article {
+	padding: 30px;
+}
+
+#blog-post, article {
+	background-color: #fff;
+	border: solid 4px #000;
+	border-radius: 20px;
+}
+
+h2, h3 {
+	font-size: 1.5em;
+	font-family: 'Shadows Into Light Two', cursive;
+}
+
+.meta {
+	font-size: 0.7em;
+}
+
+/*** Social Media ***/
+.follow {
+	margin-top: 20px;
+	margin-bottom: -40px;
+	text-align: right;
+}
+
+#follow {
+	font-size: 2em;
+	display: inline-block;
+	padding: 0 20px;
+}
+
+.share {
+	font-size: 1.5em;
+	padding: 0 20px;
+}
+
+.fa {
+	font-size: 2em;
+	text-decoration: none;
+}
+
+footer .fa {
+	margin: 0 3px;
+}
+
+
+
+/*** Nav and Buttons ***/
+a {
+	color: #fff;
+}
+
+a:hover {
+	color: #ccffff;
+}
+
+.item a {
+	color: #000;
+}
+
+.item a:hover {
+	color: #39552b;
+}
+
+
+nav {
+	text-align: center;
+}
+
+.button-group li, .button {
+	display: inline-block;
+	float: none;
+	background-color: #fff;
+	padding: 5px;
+	margin: 5px 5px 0 5px;
+	border: solid 4px #000;
+	border-radius: 8px;
+}
+
+.button-group a, .button, nav a:hover {
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
+
+.first-button {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+
+.last-button {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+nav .button {
+	width: 60px;
+}
+
+nav .button .fa {
+	font-size: 1.5em;
+}
+
+@media only screen and (max-width: 500px) {
+	nav .button {
+		width: 25px;
+	}
+}
+
+/*** Side Links -- Unused ***/
+.side-link {
+	display: none;
+}
+
+.side-link {
+	position: absolute;
+}
+
+.side-link:first-of-type {
+	left: 0;
+}
+
+.side-link:last-of-type {
+	right: 0;
+}
+
+.side-link img, .side-link a {
+	height: 60px;
+}
+
