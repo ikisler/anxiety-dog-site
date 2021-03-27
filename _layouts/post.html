@@ -1,0 +1,34 @@
+<article itemscope itemtype="http://schema.org/CreativeWork" id="comic">
+	<!-- Page title and link -->
+	<header>
+		<!--<h2 itemprop="name"><a href="http://anxietydogcomic.com/comic/240" rel="bookmark">HUMPH</a></h2>-->
+	</header>
+
+	<!-- The comic image(s) -->
+	<div class="comic-container">
+		<figure>
+			<a href="/comic" rel="next"><img itemprop="image" src="{{ page.comic-source }}" alt="{{ page.title }}" title="{{ page.title }}"/></a>
+		</figure>
+	Published on <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+	</div>
+</article>
+
+<!-- Back/next links -->
+<nav role="navigation" class="container backnext-nav">
+<a class="button first-button first navlink" href="/comic?sort=first">First</a>
+<a class="button prev navlink" href="/comic?sort=239" rel="prev">Previous</a>
+<a class="button prev navlink" href="/comic/archive" rel="prev">Archive</a>
+<a class="button next disabled navlink" href="/comic" rel="next">Next</a>
+<a class="button last-button latest disabled navlink" href="/">Latest</a>
+<br class="clearfix"/>
+</nav>
+
+<!-- Blog post and sidebar -->
+<article role="div" itemscope itemtype="https://schema.org/BlogPosting" id="blog-post">
+	<h3 itemprop="headline">{{ page.title | upcase }}</h3>
+	<div itemprop="divBody">
+		<p>{{ content }}</p>
+		<div role="complementary" class="meta">Published on <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> by <span itemprop="author copyrightHolder">Gretchen Kisler</span>.</div>
+	</div>
+</article>
+
