@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <article itemscope itemtype="http://schema.org/CreativeWork" id="comic">
 	<!-- Page title and link -->
 	<header>
@@ -16,9 +19,9 @@
 <!-- Back/next links -->
 <nav role="navigation" class="container backnext-nav">
 <a class="button first-button first navlink" href="/comic?sort=first">First</a>
-<a class="button prev navlink" href="/comic?sort=239" rel="prev">Previous</a>
+<a class="button prev navlink" href="{{ page.previous.url }}" rel="prev">Previous</a>
 <a class="button prev navlink" href="/comic/archive" rel="prev">Archive</a>
-<a class="button next disabled navlink" href="/comic" rel="next">Next</a>
+<a class="button next disabled navlink" href="{{ page.next.url }}" rel="next">Next</a>
 <a class="button last-button latest disabled navlink" href="/">Latest</a>
 <br class="clearfix"/>
 </nav>
