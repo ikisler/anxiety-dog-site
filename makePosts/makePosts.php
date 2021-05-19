@@ -16,6 +16,7 @@ layout: post
 title: "$title"
 date: $dateFormatted
 comic-source: "$imagePath"
+transcript: "$transcript"
 ---
 
 $comment
@@ -72,6 +73,16 @@ function getPostText(DOMDocument $doc): string
     return $text;
 }
 
+function getTranscriptText(DOMDocument $doc): string
+{
+    $transcriptDiv = $doc->getElementById('transcript');
+    if ($transcriptDiv == null) {
+        return '';
+    }
+    $text = $transcriptDiv->getElementsByTagName('p')->item(0)->textContent;
+    return $text;
+}
+
 function getImageUrl(DOMDocument $doc): string
 {
     $imageNode = $doc->getElementsByTagName('figure')->item(0)->getElementsByTagName('img')->item(0);
@@ -118,7 +129,7 @@ for ($i = START_NUM; $i <= END_NUM; $i++) {
     $imagePath = downloadImage($imageUrl);
 
     // Create blog post
-    $post = makePost($title, $dateFormatted, $imagePath, $text, '');
+    $post = makePost($title, $dateFormatted, $imagePath, $text, getTranscriptText($html));
     file_put_contents(POST_PATH . $dateFormatted . '-' . formatTitle($title) . '.markdown', $post);
 }
 
