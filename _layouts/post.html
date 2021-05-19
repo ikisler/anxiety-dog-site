@@ -28,10 +28,25 @@ layout: default
 
 <!-- Blog post and sidebar -->
 <article role="div" itemscope itemtype="https://schema.org/BlogPosting" id="blog-post">
-	<h3 itemprop="headline">{{ page.title | upcase }}</h3>
+	<h3 itemprop="headline">{{ page.title }}</h3>
 	<div itemprop="divBody">
 		<p>{{ content }}</p>
 		<div role="complementary" class="meta">Published on <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> by <span itemprop="author copyrightHolder">Gretchen Kisler</span>.</div>
 	</div>
 </article>
 
+<div>
+	<div id="follow">
+		<!--<h3>Follow me</h3>-->
+		<a class="fa fa-rss" title="Follow RSS" href="/rss?id=1"></a>
+		<a class="fa fa-facebook" title="Follow me on Facebook" href="https://www.facebook.com/AnxietyDogComic"></a>
+		<a class="fa fa-instagram" title="Follow me on Instagram" href="http://instagram.com/BugsAndMonsters"></a>
+	</div>
+</div>
+
+{% if !page.transcript %}
+<article role="text" id="transcript">
+	<h3>Comic transcript</h3>
+	<p>{{ page.transcript }}</p>
+</article>
+{% endif %}
