@@ -8,13 +8,14 @@ const POST_PATH = '../_posts/';
 const IMAGE_PATH = 'assets/images/comics/';
 const DATE_FORMAT = 'Y-m-d';
 
-function makePost(string $title, string $dateFormatted, string $imagePath, string $comment, string $transcript): string
+function makePost(string $title, string $dateFormatted, string $permalink, string $imagePath, string $comment, string $transcript): string
 {
     $output = <<<EOT
 ---
 layout: post
 title: "$title"
 date: $dateFormatted
+permalink: $permalink
 comic-source: "$imagePath"
 transcript: "$transcript"
 ---
@@ -129,7 +130,7 @@ for ($i = START_NUM; $i <= END_NUM; $i++) {
     $imagePath = downloadImage($imageUrl);
 
     // Create blog post
-    $post = makePost($title, $dateFormatted, $imagePath, $text, getTranscriptText($html));
+    $post = makePost($title, $dateFormatted, '/comic/' . $i, $imagePath, $text, getTranscriptText($html));
     file_put_contents(POST_PATH . $dateFormatted . '-' . formatTitle($title) . '.markdown', $post);
 }
 
