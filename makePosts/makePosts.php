@@ -93,6 +93,11 @@ function downloadImage(string $url): string
     return IMAGE_PATH . $imagePath;
 }
 
+function formatTitle(string $title): string
+{
+    return strtolower(preg_replace('/[\s-]+/', '-', $title));
+}
+
 for ($i = START_NUM; $i <= END_NUM; $i++) {
     echo POST_URL . $i . "\n";
 
@@ -114,6 +119,6 @@ for ($i = START_NUM; $i <= END_NUM; $i++) {
 
     // Create blog post
     $post = makePost($title, $dateFormatted, $imagePath, $text, '');
-    file_put_contents(POST_PATH . $dateFormatted . '.markdown', $post);
+    file_put_contents(POST_PATH . $dateFormatted . '-' . formatTitle($title) . '.markdown', $post);
 }
 
