@@ -1,9 +1,0 @@
----
-layout: post
-title: "Humph Previous"
-date: 2021-03-22
-comic-source: "/assets/images/comics/20210323/humph_fin.jpg"
----
-
-Billy has very strong opinions when I'm not there, and he is going to let you know about it.
-
