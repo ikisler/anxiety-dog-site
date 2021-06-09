@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Break"
+date: 2019-07-09
+permalink: /comic/162
+comic-source: "assets/images/comics/Break_fin.jpg"
+transcript: ""
+---
+
+There's a bit too much anxiety going on around here. We will return in a few weeks (and maybe have little drawings in the meantime).

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "If I Fits"
+date: 2018-01-02
+permalink: /comic/87
+comic-source: "assets/images/comics/IfIFits_Final.jpg"
+transcript: ""
+---
+
+This list also includes couches, people beds, pillows, and jackets that happen to be on the floor.

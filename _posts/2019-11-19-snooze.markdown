@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Snooze"
+date: 2019-11-19
+permalink: /comic/175
+comic-source: "assets/images/comics/snoozeV2_fin.jpg"
+transcript: ""
+---
+
+Somewhere, under a blanket, is a small dog snoring very loudly :P

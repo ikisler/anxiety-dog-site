@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Panic"
+date: 2021-01-12
+permalink: /comic/230
+comic-source: "assets/images/comics/panic_fin.jpg"
+transcript: ""
+---
+
+Today's comic brought to you by my sudden realization that I hadn't started anything Monday evening :P

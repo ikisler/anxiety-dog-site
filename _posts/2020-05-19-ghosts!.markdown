@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ghosts!"
+date: 2020-05-19
+permalink: /comic/199
+comic-source: "assets/images/comics/ghosts_fin.jpg"
+transcript: ""
+---
+
+Billy is usually at work with me during the day, so he's not used to it being so windy at home (which it is, every afternoon). I am still waiting for him to get used to it. It looks like it's going to be a while though :P

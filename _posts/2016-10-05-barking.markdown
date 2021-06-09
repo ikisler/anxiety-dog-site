@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Barking"
+date: 2016-10-05
+permalink: /comic/23
+comic-source: "assets/images/comics/Barking_Final.jpg"
+transcript: ""
+---
+
+Sometimes barking is surprising to everyone

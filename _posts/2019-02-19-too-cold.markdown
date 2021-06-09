@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Too Cold"
+date: 2019-02-19
+permalink: /comic/142
+comic-source: "assets/images/comics/TooCold_v2_fin.jpg"
+transcript: ""
+---
+
+Billy is a little guy and sometimes needs help keeping warm. Also a giant bed full of blankets and humans is not a bad place to be.

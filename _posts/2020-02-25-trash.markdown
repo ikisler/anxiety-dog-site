@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Trash"
+date: 2020-02-25
+permalink: /comic/188
+comic-source: "assets/images/comics/Trash_fin.jpg"
+transcript: ""
+---
+
+As far as Billy is concerned, vegetables are not food (unless maybe they're surrounded by beef). Lani has no such scruples.

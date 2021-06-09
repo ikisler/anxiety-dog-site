@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Break!"
+date: 2021-01-05
+permalink: /comic/229
+comic-source: "assets/images/comics/petsBreak_fin.jpg"
+transcript: ""
+---
+
+Playing is super fun, but we have to stop for pets. In your face. While standing on you.

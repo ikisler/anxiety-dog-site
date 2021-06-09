@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Treats?"
+date: 2017-12-12
+permalink: /comic/84
+comic-source: "assets/images/comics/Treats_final.jpg"
+transcript: ""
+---
+
+One thing they can all agree on

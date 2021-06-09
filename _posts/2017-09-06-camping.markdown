@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Camping"
+date: 2017-09-06
+permalink: /comic/70
+comic-source: "assets/images/comics/CampingFinal.jpg"
+transcript: ""
+---
+
+The first time we took Billy camping he was not happy. The next day we found a squirrel and a beach and everything was fine.

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Socks"
+date: 2017-03-22
+permalink: /comic/47
+comic-source: "assets/images/comics/Sock_final2.jpg"
+transcript: ""
+---
+
+This was the first game we played.

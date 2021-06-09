@@ -1,0 +1,10 @@
+---
+layout: post
+title: "The Snail"
+date: 2019-05-21
+permalink: /comic/155
+comic-source: "assets/images/comics/Snail2_fin.jpg"
+transcript: ""
+---
+
+It's important to use all your senses when investigating a new creature... much to the dismay of that creature.

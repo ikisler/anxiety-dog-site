@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Blanket"
+date: 2020-09-30
+permalink: /comic/216
+comic-source: "assets/images/comics/blanket_fin.jpg"
+transcript: ""
+---
+
+This is Billy's favorite blanket. He would like you to put it on the couch.

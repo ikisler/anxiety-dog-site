@@ -1,0 +1,10 @@
+---
+layout: post
+title: "This Way"
+date: 2020-10-27
+permalink: /comic/220
+comic-source: "assets/images/comics/thisWay_fin.jpg"
+transcript: ""
+---
+
+He has opinions on which way we should go, and how long the walk should be.

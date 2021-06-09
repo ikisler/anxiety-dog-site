@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sleep Now?"
+date: 2018-07-03
+permalink: /comic/112
+comic-source: "assets/images/comics/SleepNow_final.jpg"
+transcript: ""
+---
+
+He wants to go to bed, which means I need to go to bed.

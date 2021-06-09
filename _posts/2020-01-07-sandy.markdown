@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sandy"
+date: 2020-01-07
+permalink: /comic/181
+comic-source: "assets/images/comics/Sand dog_fin.jpg"
+transcript: ""
+---
+
+It's more fun to be totally gross :P

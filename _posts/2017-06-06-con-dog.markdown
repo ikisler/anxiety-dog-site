@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Con Dog"
+date: 2017-06-06
+permalink: /comic/57
+comic-source: "assets/images/comics/ConDogFinal.jpg"
+transcript: ""
+---
+
+We took Billy to a four day convention. He wasn't too sure at first, but got into it when he discovered all the nice people had good pets. He was eventually worn out though.

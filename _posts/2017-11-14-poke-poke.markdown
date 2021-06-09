@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Poke Poke"
+date: 2017-11-14
+permalink: /comic/80
+comic-source: "assets/images/comics/PokePokeFinal.jpg"
+transcript: ""
+---
+
+He will whine for walks and treats, but not when he needs to pee...

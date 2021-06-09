@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Yard Work"
+date: 2021-02-23
+permalink: /comic/236
+comic-source: "assets/images/comics/yardWork_fin.jpg"
+transcript: ""
+---
+
+It's hard work, getting in the way

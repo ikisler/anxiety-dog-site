@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tired"
+date: 2020-10-13
+permalink: /comic/218
+comic-source: "assets/images/comics/Tired_fin.jpg"
+transcript: ""
+---
+
+We've had a long few weeks, and just didn't get to a proper comic this week. We'll try again next week!

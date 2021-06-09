@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tiny Cows"
+date: 2019-03-19
+permalink: /comic/146
+comic-source: "assets/images/comics/TinyCows_fin.jpg"
+transcript: ""
+---
+
+We took these two to their favorite squirrel filled park, and they ate grass.  We visited the neighbors, and they ate more grass.  They are tiny cows.

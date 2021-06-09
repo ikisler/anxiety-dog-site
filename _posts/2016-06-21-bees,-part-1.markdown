@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bees, Part 1"
+date: 2016-06-21
+permalink: /comic/8
+comic-source: "assets/images/comics/Bees1_smaller.jpg"
+transcript: "Dog meets a bumble bee and decides it's play time."
+---
+
+I don't think Billy has ever encountered a fast moving bug large enough to catch his interest, until he met a bumble bee.  In two parts due to excessive coloring of flower garden.

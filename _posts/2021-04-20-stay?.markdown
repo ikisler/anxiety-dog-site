@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Stay?"
+date: 2021-04-20
+permalink: /comic/243
+comic-source: "assets/images/comics/stay_flop_fin.jpg"
+transcript: ""
+---
+
+Billy does a pretty good stay for a rescue dog filled with anxiety, but he likes to do it his own way (at least at home)

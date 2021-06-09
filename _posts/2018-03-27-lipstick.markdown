@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lipstick"
+date: 2018-03-27
+permalink: /comic/99
+comic-source: "assets/images/comics/Lipstick_2.jpg"
+transcript: ""
+---
+
+I spend the evening out, and they throw a party...

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Play?"
+date: 2019-02-26
+permalink: /comic/143
+comic-source: "assets/images/comics/Play_fin.jpg"
+transcript: ""
+---
+
+You can feel the resignation

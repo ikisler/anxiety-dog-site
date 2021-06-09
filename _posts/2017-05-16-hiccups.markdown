@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hiccups"
+date: 2017-05-16
+permalink: /comic/54
+comic-source: "assets/images/comics/HiccupsFinal.jpg"
+transcript: ""
+---
+
+I hear this is a thing with pointers (and pointer mixes I guess)?

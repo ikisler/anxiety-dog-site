@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bugs!"
+date: 2018-08-14
+permalink: /comic/118
+comic-source: "assets/images/comics/Bugs!-2fin.jpg"
+transcript: ""
+---
+
+Billy was overwhelmed by superior numbers!

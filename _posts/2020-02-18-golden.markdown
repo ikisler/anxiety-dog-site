@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Golden"
+date: 2020-02-18
+permalink: /comic/187
+comic-source: "assets/images/comics/Golden_fin.jpg"
+transcript: ""
+---
+
+Billy really loves golden retrievers, a lot. He needs to meet them all.
