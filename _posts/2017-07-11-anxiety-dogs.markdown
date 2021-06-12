@@ -5,6 +5,7 @@ date: 2017-07-11
 permalink: /comic/62
 comic-source: "assets/images/comics/AnxietyDogsFinal.jpg"
 transcript: ""
+alt: "Anxiety Dogs"
 ---
 
 Turns out that Winona was about as intimidated by Billy as Billy was of Winona... it only took us about three months to figure it out :P

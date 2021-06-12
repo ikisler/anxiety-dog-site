@@ -5,6 +5,7 @@ date: 2019-02-05
 permalink: /comic/140
 comic-source: "assets/images/comics/DogRave_fin.jpg"
 transcript: ""
+alt: "Dog Rave"
 ---
 
 Our housemate got the dogs lighted collars for going out at night. It's pretty cute when all you can see is waiving lights as they woosh by.

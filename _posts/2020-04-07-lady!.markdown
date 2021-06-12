@@ -5,6 +5,7 @@ date: 2020-04-07
 permalink: /comic/193
 comic-source: "assets/images/comics/LadyLady_fin.jpg"
 transcript: ""
+alt: "LadyLadyLadyLadyLadyLady"
 ---
 
 I'm just not allowed to leave, ever :P

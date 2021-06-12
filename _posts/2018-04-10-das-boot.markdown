@@ -5,6 +5,7 @@ date: 2018-04-10
 permalink: /comic/101
 comic-source: "assets/images/comics/BootEater_Fin.jpg"
 transcript: ""
+alt: "Das Boot"
 ---
 
 Billy had a paw injury which required him to wear a boot for a few days. It went about as well as could be expected.

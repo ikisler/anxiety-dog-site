@@ -5,6 +5,7 @@ date: 2017-11-14
 permalink: /comic/80
 comic-source: "assets/images/comics/PokePokeFinal.jpg"
 transcript: ""
+alt: "Poke Poke"
 ---
 
 He will whine for walks and treats, but not when he needs to pee...

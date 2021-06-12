@@ -5,6 +5,7 @@ date: 2021-04-13
 permalink: /comic/242
 comic-source: "assets/images/comics/ShesBack_fin.jpg"
 transcript: ""
+alt: "She's Baaaaaack"
 ---
 
 She's actually way more calm, but she's also not going to leave a perfectly good dog chew that someone has poorly buried

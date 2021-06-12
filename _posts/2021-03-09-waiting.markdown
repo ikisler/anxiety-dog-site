@@ -5,6 +5,7 @@ date: 2021-03-09
 permalink: /comic/238
 comic-source: "assets/images/comics/waiting_fin.jpg"
 transcript: ""
+alt: "I do not understand why he does not come home"
 ---
 
 If Billy could put a candle in the window, he would

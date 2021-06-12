@@ -5,6 +5,7 @@ date: 2018-10-02
 permalink: /comic/124
 comic-source: "assets/images/comics/Baths_fin.jpg"
 transcript: ""
+alt: "Baths Woes"
 ---
 
 Having a bath is the worst. However, it is followed by a towel massage which is awesome.

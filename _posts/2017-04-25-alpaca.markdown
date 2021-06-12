@@ -5,6 +5,7 @@ date: 2017-04-25
 permalink: /comic/51
 comic-source: "assets/images/comics/AlpacaFinal.jpg"
 transcript: ""
+alt: "Alpaca"
 ---
 
 The rare occasion where Billy is the least anxious at the party. 

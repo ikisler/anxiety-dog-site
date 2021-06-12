@@ -5,6 +5,7 @@ date: 2018-03-27
 permalink: /comic/99
 comic-source: "assets/images/comics/Lipstick_2.jpg"
 transcript: ""
+alt: "Lipstick"
 ---
 
 I spend the evening out, and they throw a party...

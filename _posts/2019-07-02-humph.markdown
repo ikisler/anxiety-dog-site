@@ -5,6 +5,7 @@ date: 2019-07-02
 permalink: /comic/161
 comic-source: "assets/images/comics/Trill_fin.jpg"
 transcript: ""
+alt: "Merp?"
 ---
 
 Billy will go through a selection of increasingly pitiable noises until he finds one which I will react to. The source of this distress is usually that I've finished breakfast and we haven't been on a walk yet.

@@ -5,6 +5,7 @@ date: 2018-09-25
 permalink: /comic/123
 comic-source: "assets/images/comics/Buddha_Fin.jpg"
 transcript: ""
+alt: "Buddha"
 ---
 
 There's a garden shop nearby work, and sometimes the things they have outside are extra concerning (other times we walk right by them).

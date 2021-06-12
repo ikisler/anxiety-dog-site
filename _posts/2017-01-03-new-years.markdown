@@ -5,6 +5,7 @@ date: 2017-01-03
 permalink: /comic/36
 comic-source: "assets/images/comics/NewYearsFinal.jpg"
 transcript: ""
+alt: "New Years"
 ---
 
 Not the sounds or the people or the silly neck ruff, but the floaty balloons were the most terrible thing about New Years.

@@ -5,6 +5,7 @@ date: 2017-11-29
 permalink: /comic/82
 comic-source: "assets/images/comics/PhotoModelFinal.jpg"
 transcript: ""
+alt: "Photo Dog"
 ---
 
 Billy has learned that I like to take pictures, but he has only so much patience for it.

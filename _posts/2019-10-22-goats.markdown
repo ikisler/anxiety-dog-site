@@ -5,6 +5,7 @@ date: 2019-10-22
 permalink: /comic/171
 comic-source: "assets/images/comics/Goats_fin.jpg"
 transcript: ""
+alt: "Friends?"
 ---
 
 Billy would like to be friends with the goats. The goats are not too impressed however

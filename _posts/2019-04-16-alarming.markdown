@@ -5,6 +5,7 @@ date: 2019-04-16
 permalink: /comic/150
 comic-source: "assets/images/comics/Alarming_fin.jpg"
 transcript: ""
+alt: "Alarming!"
 ---
 
 More recently, Billy got to experience his first ever corporate fire alarm. It went as well as you might expect...

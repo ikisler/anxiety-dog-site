@@ -5,6 +5,7 @@ date: 2018-12-04
 permalink: /comic/133
 comic-source: "assets/images/comics/Lani_fin.jpg"
 transcript: ""
+alt: "Lani"
 ---
 
 There's a new dog in the house!

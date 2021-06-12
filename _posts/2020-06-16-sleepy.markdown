@@ -5,6 +5,7 @@ date: 2020-06-16
 permalink: /comic/202
 comic-source: "assets/images/comics/sleepy_fin2.jpg"
 transcript: ""
+alt: "That's a floor sander in the background..."
 ---
 
 Poor Billy had to get all of his yearly vaccines at the same time. He was super sleepy and done for the rest of the day. Anxiety was not a thing.

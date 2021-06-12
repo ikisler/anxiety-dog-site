@@ -5,6 +5,7 @@ date: 2017-07-05
 permalink: /comic/61
 comic-source: "assets/images/comics/WynonaFinal.jpg"
 transcript: ""
+alt: "Winona"
 ---
 
 With special guest Winona! 

@@ -5,6 +5,7 @@ date: 2020-09-15
 permalink: /comic/214
 comic-source: "assets/images/comics/food_fin.jpg"
 transcript: ""
+alt: "What is this food you speak of?"
 ---
 
 When he was younger, we had so much trouble getting Billy to eat. It seemed like he genuinely didn't know he was hungry. Or his stomach hurt because he hadn't eaten, so he didn't want to. It was stressful for everyone, so we turned to bribery.

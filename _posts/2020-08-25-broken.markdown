@@ -5,6 +5,7 @@ date: 2020-08-25
 permalink: /comic/211
 comic-source: "assets/images/comics/paw broke_fin.jpg"
 transcript: ""
+alt: "It is hurted lady"
 ---
 
 Sometimes he actually needs help, and other times he just needs me to look at it...

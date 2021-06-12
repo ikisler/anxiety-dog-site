@@ -5,6 +5,7 @@ date: 2020-05-26
 permalink: /comic/200
 comic-source: "assets/images/comics/Dirty_fin.jpg"
 transcript: ""
+alt: "Remember when we had a white dog?"
 ---
 
 Since we've been home, Billy has had freedom to go outside whenever he wants, and he wants to go outside and lay in the sun all the time, apparently the best place to do that on a hot day is the dirt...

@@ -5,6 +5,7 @@ date: 2017-05-09
 permalink: /comic/53
 comic-source: "assets/images/comics/WetFinal2.jpg"
 transcript: ""
+alt: "Wet"
 ---
 
 Nothing is more miserable than a sad wet dog in the winter, and nothing is happier than a hot dog finally getting to cool off on a hot summer day.

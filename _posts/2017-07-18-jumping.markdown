@@ -5,6 +5,7 @@ date: 2017-07-18
 permalink: /comic/63
 comic-source: "assets/images/comics/JumpingFinal.jpg"
 transcript: ""
+alt: "Jumping"
 ---
 
 Jumping is the best! Do jumping!

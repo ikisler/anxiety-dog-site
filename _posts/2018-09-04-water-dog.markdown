@@ -5,6 +5,7 @@ date: 2018-09-04
 permalink: /comic/120
 comic-source: "assets/images/comics/Water Hazard_fin.jpg"
 transcript: ""
+alt: "Water Dog"
 ---
 
 Sometimes it's just too hot not to get in the water. You might as well drink some while you're there :P

@@ -5,6 +5,7 @@ date: 2018-12-11
 permalink: /comic/134
 comic-source: "assets/images/comics/Name_fin.jpg"
 transcript: ""
+alt: "What's in a name?"
 ---
 
 Turns out Lani is a fast learner. So fast that she has learned TWO names :P

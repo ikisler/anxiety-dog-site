@@ -5,6 +5,7 @@ date: 2020-11-03
 permalink: /comic/221
 comic-source: "assets/images/comics/brush_fin.jpg"
 transcript: ""
+alt: "Getting sleeeeeepy"
 ---
 
 Billy has decided that this brush is good, and getting brushed is good, and please continue

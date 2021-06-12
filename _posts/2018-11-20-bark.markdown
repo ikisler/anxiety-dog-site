@@ -5,6 +5,7 @@ date: 2018-11-20
 permalink: /comic/131
 comic-source: "assets/images/comics/Bark_fin.jpg"
 transcript: ""
+alt: "Bark"
 ---
 
 Billy and Radar differed in their communication methodologies - and also their hobbies.

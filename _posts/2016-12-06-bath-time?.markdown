@@ -5,6 +5,7 @@ date: 2016-12-06
 permalink: /comic/32
 comic-source: "assets/images/comics/showerFinal.jpg"
 transcript: ""
+alt: "Bath Time"
 ---
 
 Being separate is worse than being in a shower. Also wet knees are awesome...

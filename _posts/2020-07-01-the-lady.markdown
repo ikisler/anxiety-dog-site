@@ -5,6 +5,7 @@ date: 2020-07-01
 permalink: /comic/204
 comic-source: "assets/images/comics/lady_fin.jpg"
 transcript: ""
+alt: "I mean THE Lady. Yeah THE Lady! I mean my lady. Yeah, my lady!"
 ---
 
 I'm pretty sure most dogs share this opinion...  Posting this Wednesday instead of Tuesday because time has no meaning any more |:

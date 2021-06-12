@@ -5,6 +5,7 @@ date: 2019-12-17
 permalink: /comic/178
 comic-source: "assets/images/comics/nailed it_fin.jpg"
 transcript: ""
+alt: "I've done all of the things. Give me the treat"
 ---
 
 Once he gained confidence in doing his tricks, there was no stopping him. Literally.

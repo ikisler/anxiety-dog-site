@@ -5,6 +5,7 @@ date: 2020-04-28
 permalink: /comic/196
 comic-source: "assets/images/comics/massive_fin.jpg"
 transcript: ""
+alt: "SUPERMASSIVE BLACKHOLE"
 ---
 
 Billy has a high gravitational pull when you're trying to sleep comfortably

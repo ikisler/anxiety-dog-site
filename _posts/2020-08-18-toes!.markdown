@@ -5,6 +5,7 @@ date: 2020-08-18
 permalink: /comic/210
 comic-source: "assets/images/comics/toes_fin.jpg"
 transcript: ""
+alt: "They're just so enticing"
 ---
 
 He has done this to me, my parent, my sister, and at least one co-worker (that I am aware of)

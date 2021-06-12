@@ -5,6 +5,7 @@ date: 2016-11-29
 permalink: /comic/31
 comic-source: "assets/images/comics/RedLumpsFinal.jpg"
 transcript: ""
+alt: "Red Lumps"
 ---
 
 It seems Billy is allergic to something which I have yet to positively identify... yay?

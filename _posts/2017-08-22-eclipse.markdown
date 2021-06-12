@@ -5,6 +5,7 @@ date: 2017-08-22
 permalink: /comic/68
 comic-source: "assets/images/comics/EclipseFinal.jpg"
 transcript: ""
+alt: "Eclipse"
 ---
 
 Billy was really not impressed by the eclipse, and would have rather stayed in bed.

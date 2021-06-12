@@ -5,6 +5,7 @@ date: 2019-03-12
 permalink: /comic/145
 comic-source: "assets/images/comics/gulp_fin.jpg"
 transcript: ""
+alt: "HONK HONK HONK"
 ---
 
 Billy is not very interested in chewing anything, and sometimes he gets it stuck in his nose or throat and sounds like a goose. He is unperturbed when I go to check that he's not dying xP

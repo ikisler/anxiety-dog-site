@@ -5,6 +5,7 @@ date: 2018-07-31
 permalink: /comic/116
 comic-source: "assets/images/comics/BadTaste_fin.jpg"
 transcript: ""
+alt: "Bad Taste"
 ---
 
 Occasionally, investigating things with your tongue has it's drawbacks

@@ -5,6 +5,7 @@ date: 2016-06-21
 permalink: /comic/9
 comic-source: "assets/images/comics/Bees2.jpg"
 transcript: "Dog chases bee. What could go wrong."
+alt: "Bees, Part 2"
 ---
 
 It was large and moving. It needed to be chased.  In two parts due to excessive coloring of flower garden.

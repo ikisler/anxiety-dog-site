@@ -5,6 +5,7 @@ date: 2019-11-19
 permalink: /comic/175
 comic-source: "assets/images/comics/snoozeV2_fin.jpg"
 transcript: ""
+alt: "You didn't want these blankets not covered in dog fur right?"
 ---
 
 Somewhere, under a blanket, is a small dog snoring very loudly :P

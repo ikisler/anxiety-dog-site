@@ -5,6 +5,7 @@ date: 2019-08-27
 permalink: /comic/164
 comic-source: "assets/images/comics/Dancing_fin.jpg"
 transcript: ""
+alt: "JUMPING!"
 ---
 
 Having a dog repeatedly launch himself in your general direction makes doing a well coordinated waltz just a little more challenging :B

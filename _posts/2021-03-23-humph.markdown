@@ -5,6 +5,7 @@ date: 2021-03-23
 permalink: /comic/240
 comic-source: "assets/images/comics/humph_fin.jpg"
 transcript: ""
+alt: "Hurrumph"
 ---
 
 Billy has very strong opinions when I'm not there, and he is going to let you know about it.

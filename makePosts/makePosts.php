@@ -3,7 +3,7 @@
 const BASE_URL = 'https://anxietydogcomic.com';
 const POST_URL = BASE_URL . '/comic/';
 const START_NUM = 1;
-const END_NUM = 1;
+const END_NUM = 248;
 const POST_PATH = '../_posts/';
 const IMAGE_PATH = 'assets/images/comics/';
 const DATE_FORMAT = 'Y-m-d';

@@ -5,6 +5,7 @@ date: 2016-12-27
 permalink: /comic/35
 comic-source: "assets/images/comics/Snow PlayFinal.jpg"
 transcript: ""
+alt: "Snow Play"
 ---
 
 Billy, meet snow.

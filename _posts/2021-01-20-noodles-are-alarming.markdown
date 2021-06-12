@@ -5,6 +5,7 @@ date: 2021-01-20
 permalink: /comic/231
 comic-source: "assets/images/comics/noodles_fin.jpg"
 transcript: ""
+alt: "It's touching meeeeeee"
 ---
 
 Billy really likes noodles, but sometimes they grab you unexpectedly

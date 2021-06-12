@@ -5,6 +5,7 @@ date: 2018-05-29
 permalink: /comic/107
 comic-source: "assets/images/comics/dogTrain_final.jpg"
 transcript: ""
+alt: "Worm Dog"
 ---
 
 The common worm dog, known to crawl through fields of grass on sunny days.

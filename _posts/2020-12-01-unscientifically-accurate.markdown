@@ -5,6 +5,7 @@ date: 2020-12-01
 permalink: /comic/225
 comic-source: "assets/images/comics/unScientific2_fin.jpg"
 transcript: ""
+alt: "Canis lupus riddikulus"
 ---
 
 The #UnScienceAnAnimal tag came around this week, and I felt the need to include myself

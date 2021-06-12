@@ -5,6 +5,7 @@ date: 2016-10-26
 permalink: /comic/26
 comic-source: "assets/images/comics/Cheese_final.jpg"
 transcript: ""
+alt: "Cheese"
 ---
 
 This also applies to any meat based product, pastry, or anything in a zip top bag.

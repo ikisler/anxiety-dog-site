@@ -5,6 +5,7 @@ date: 2020-04-14
 permalink: /comic/194
 comic-source: "assets/images/comics/goose.jpg"
 transcript: ""
+alt: "Dunn Dunnnnnnnn"
 ---
 
 Smart dog

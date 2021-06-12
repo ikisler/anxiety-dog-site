@@ -5,6 +5,7 @@ date: 2020-09-08
 permalink: /comic/213
 comic-source: "assets/images/comics/SquirrelStealth_fin.jpg"
 transcript: ""
+alt: "Wheeeeee!"
 ---
 
 The point is the running, not necessarily the actual squirrel

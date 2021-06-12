@@ -5,6 +5,7 @@ date: 2018-10-16
 permalink: /comic/126
 comic-source: "assets/images/comics/Pets_fin.jpg"
 transcript: ""
+alt: "Pets?"
 ---
 
 Billy started out nervous about people and hands and getting attention. Since then, he has learned about getting all the pets.

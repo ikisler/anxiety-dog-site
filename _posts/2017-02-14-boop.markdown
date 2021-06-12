@@ -5,6 +5,7 @@ date: 2017-02-14
 permalink: /comic/42
 comic-source: "assets/images/comics/ValentineFinal.jpg"
 transcript: ""
+alt: "Boop"
 ---
 
 I'm gonna boop it.

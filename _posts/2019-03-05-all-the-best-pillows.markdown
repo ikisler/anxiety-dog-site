@@ -5,6 +5,7 @@ date: 2019-03-05
 permalink: /comic/144
 comic-source: "assets/images/comics/Pillows_fin.jpg"
 transcript: ""
+alt: "Now you must stay forever"
 ---
 
 Billy has a very specific hierarchy of things he prefers to lay on

@@ -5,6 +5,7 @@ date: 2017-04-04
 permalink: /comic/49
 comic-source: "assets/images/comics/springtime_snow_Final.jpg"
 transcript: ""
+alt: "Spring Time"
 ---
 
 How is he not naked?

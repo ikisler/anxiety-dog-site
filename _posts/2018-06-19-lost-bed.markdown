@@ -5,6 +5,7 @@ date: 2018-06-19
 permalink: /comic/110
 comic-source: "assets/images/comics/BedIsGone_fin.jpg"
 transcript: ""
+alt: "Lost Bed"
 ---
 
 Billy is greatly disturbed by changes in his environment. He is especially attached to his bed (probably because he spends most of his day there).

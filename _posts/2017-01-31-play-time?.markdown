@@ -5,6 +5,7 @@ date: 2017-01-31
 permalink: /comic/40
 comic-source: "assets/images/comics/myleg5Final.jpg"
 transcript: ""
+alt: "Play Time?"
 ---
 
 Billy often finds other dogs to be a bit too excited about playing...

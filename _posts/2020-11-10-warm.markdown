@@ -5,6 +5,7 @@ date: 2020-11-10
 permalink: /comic/222
 comic-source: "assets/images/comics/warm_fin.jpg"
 transcript: ""
+alt: "O.O"
 ---
 
 This little dog likes all the warm places... sometimes this is a problem. It is very hard not to forgive him immediately though :P

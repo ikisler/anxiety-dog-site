@@ -5,6 +5,7 @@ date: 2018-01-30
 permalink: /comic/91
 comic-source: "assets/images/comics/HotDog_final.jpg"
 transcript: ""
+alt: "Hot Dog"
 ---
 
 It was love at first bite

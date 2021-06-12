@@ -5,6 +5,7 @@ date: 2020-09-22
 permalink: /comic/215
 comic-source: "assets/images/comics/food part 2_fin.jpg"
 transcript: ""
+alt: "Lady! Lady! Lady! Lady!"
 ---
 
 Now that we have taught the dog that food is good, we are informed promptly when it is dinner time (and by we, I mean me).

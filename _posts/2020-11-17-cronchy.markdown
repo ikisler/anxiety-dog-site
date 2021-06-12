@@ -5,6 +5,7 @@ date: 2020-11-17
 permalink: /comic/223
 comic-source: "assets/images/comics/cronch_fin2.jpg"
 transcript: ""
+alt: "CRONCH"
 ---
 
 Last year we were in a hotel on Thanksgiving, and Billy didn't finish his dinner. No problem, he can eat it whenever he's hungry... :P

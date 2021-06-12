@@ -5,6 +5,7 @@ date: 2019-02-12
 permalink: /comic/141
 comic-source: "assets/images/comics/Catch_fin.jpg"
 transcript: ""
+alt: "Catch"
 ---
 
 The very idea of catching things is foreign and bizarre to Mr. Billy.

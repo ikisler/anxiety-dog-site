@@ -5,6 +5,7 @@ date: 2019-06-11
 permalink: /comic/158
 comic-source: "assets/images/comics/TooHotToDraw_1.jpg"
 transcript: ""
+alt: "The dog melted. I melted. Everyone is melted"
 ---
 
 It's 80+ degrees in my house at 10:30pm D:

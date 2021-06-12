@@ -5,6 +5,7 @@ date: 2016-12-21
 permalink: /comic/34
 comic-source: "assets/images/comics/RoosterFinal.jpg"
 transcript: ""
+alt: "Rooster"
 ---
 
 Billy encounters a most unusual creature and doesn't quite know what to do about it.

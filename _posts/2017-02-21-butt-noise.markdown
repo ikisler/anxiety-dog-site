@@ -5,6 +5,7 @@ date: 2017-02-21
 permalink: /comic/43
 comic-source: "assets/images/comics/PoopFart_Final.jpg"
 transcript: ""
+alt: "Butt Noise"
 ---
 
 Billy is not accustomed to sound coming out of his rear end. 

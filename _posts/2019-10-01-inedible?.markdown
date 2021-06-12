@@ -5,6 +5,7 @@ date: 2019-10-01
 permalink: /comic/168
 comic-source: "assets/images/comics/food too big_fin.jpg"
 transcript: ""
+alt: "Is this how parents of small children feel?"
 ---
 
 We gave Billy his own egg and a little piece of bacon while we were camping, and he refused to eat them... because they were too big 0.0'  I drew most of this comic last week, sitting in front of a fan because it was a million degrees in California. It was still too hot to finish :(

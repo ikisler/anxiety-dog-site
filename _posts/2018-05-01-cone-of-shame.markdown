@@ -5,6 +5,7 @@ date: 2018-05-01
 permalink: /comic/103
 comic-source: "assets/images/comics/ConeOfShame_fin.jpg"
 transcript: ""
+alt: "Cone of Shame"
 ---
 
 The consequences of his chewing his bandages was terrible...

@@ -5,6 +5,7 @@ date: 2019-12-24
 permalink: /comic/179
 comic-source: "assets/images/comics/santa_fin.jpg"
 transcript: ""
+alt: "This is not how you wear a hat"
 ---
 
 He very patiently waited for me to try this hat on him a couple of times before he was over it and laid down. Then we were able to come to a compromise :P

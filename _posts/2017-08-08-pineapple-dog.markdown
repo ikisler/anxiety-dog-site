@@ -5,6 +5,7 @@ date: 2017-08-08
 permalink: /comic/66
 comic-source: "assets/images/comics/PineappleDogFinal.jpg"
 transcript: ""
+alt: "Pineapple Dog"
 ---
 
 PPAD?  This comic is for Mister Q who started singing "Pineapple Dog" and got the whole business stuck in my head.

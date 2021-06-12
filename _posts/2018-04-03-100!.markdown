@@ -5,6 +5,7 @@ date: 2018-04-03
 permalink: /comic/100
 comic-source: "assets/images/comics/100Comics_NoBurst_final.jpg"
 transcript: ""
+alt: "100!"
 ---
 
 Whoohoo! I have done one hundred of these things. That's almost two years of comics!  Thank you to everyone who checks in with Billy's adventures! They will continue, and I will continue to illustrate them :)

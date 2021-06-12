@@ -5,6 +5,7 @@ date: 2020-10-06
 permalink: /comic/217
 comic-source: "assets/images/comics/beds_finv2.jpg"
 transcript: ""
+alt: "It's fine. I'll just use you as a pillow"
 ---
 
 I thought I was going to solve all the problems by having two beds, and then Billy picked the bigger one :P

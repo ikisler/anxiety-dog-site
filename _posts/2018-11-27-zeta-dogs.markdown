@@ -5,6 +5,7 @@ date: 2018-11-27
 permalink: /comic/132
 comic-source: "assets/images/comics/GonnaEatThat_fin.jpg"
 transcript: ""
+alt: "Zeta Dogs"
 ---
 
 You've heard of Alpha dogs? These are not those.

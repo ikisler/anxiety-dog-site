@@ -5,6 +5,7 @@ date: 2018-06-12
 permalink: /comic/109
 comic-source: "assets/images/comics/BedFlop_fin.jpg"
 transcript: ""
+alt: "Bed Flop"
 ---
 
 Billy is going to sleep in (or out of) his bed however he wants

@@ -5,6 +5,7 @@ date: 2020-03-03
 permalink: /comic/189
 comic-source: "assets/images/comics/carrots_fin.jpg"
 transcript: ""
+alt: "Nope, still a vegetable..."
 ---
 
 Because Lani is eating it, Billy wants to try it, and keep trying it. 

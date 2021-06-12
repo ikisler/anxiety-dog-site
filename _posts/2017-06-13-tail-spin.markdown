@@ -5,6 +5,7 @@ date: 2017-06-13
 permalink: /comic/58
 comic-source: "assets/images/comics/TailSpinFinal.jpg"
 transcript: ""
+alt: "Tail Spin"
 ---
 
 When your happiness exceeds the regular tail wagging motions...

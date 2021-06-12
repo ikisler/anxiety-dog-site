@@ -5,6 +5,7 @@ date: 2021-02-16
 permalink: /comic/235
 comic-source: "assets/images/comics/borking_fin.jpg"
 transcript: ""
+alt: "BORK BORK BORK"
 ---
 
 Billy doesn't like to bark at me, but when Mr. Q gets him going, he gets very excited (and loud).
