@@ -8,7 +8,7 @@ const POST_PATH = '../_posts/';
 const IMAGE_PATH = 'assets/images/comics/';
 const DATE_FORMAT = 'Y-m-d';
 
-function makePost(string $title, string $dateFormatted, string $permalink, string $imagePath, string $comment, string $transcript): string
+function makePost(string $title, string $dateFormatted, string $permalink, string $imagePath, string $comment, string $transcript, string $alt): string
 {
     $output = <<<EOT
 ---
@@ -18,6 +18,7 @@ date: $dateFormatted
 permalink: $permalink
 comic-source: "$imagePath"
 transcript: "$transcript"
+alt: "$alt"
 ---
 
 $comment
@@ -84,10 +85,10 @@ function getTranscriptText(DOMDocument $doc): string
     return $text;
 }
 
-function getImageUrl(DOMDocument $doc): string
+function getImageData(DOMDocument $doc): array
 {
     $imageNode = $doc->getElementsByTagName('figure')->item(0)->getElementsByTagName('img')->item(0);
-    return trim($imageNode->attributes->getNamedItem('src')->nodeValue, '/');
+    return [trim($imageNode->attributes->getNamedItem('src')->nodeValue, '/'), trim($imageNode->attributes->getNamedItem('alt')->nodeValue)];
 }
 
 function downloadImage(string $url): string
@@ -126,11 +127,11 @@ for ($i = START_NUM; $i <= END_NUM; $i++) {
     }
 
     // Find + download image
-    $imageUrl = getImageUrl($html);
+    [$imageUrl, $imageAlt] = getImageData($html);
     $imagePath = downloadImage($imageUrl);
 
     // Create blog post
-    $post = makePost($title, $dateFormatted, '/comic/' . $i, $imagePath, $text, getTranscriptText($html));
+    $post = makePost($title, $dateFormatted, '/comic/' . $i, $imagePath, $text, getTranscriptText($html), $imageAlt);
     file_put_contents(POST_PATH . $dateFormatted . '-' . formatTitle($title) . '.markdown', $post);
 }
 

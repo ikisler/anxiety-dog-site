@@ -9,7 +9,7 @@ layout: default
 	<!-- The comic image(s) -->
 	<div class="comic-container">
 		<figure>
-			<a href="{{ page.next.url }}" rel="next"><img itemprop="image" src="{{ page.comic-source | prepend:'/' | prepend:site.url }}" alt="{{ page.title }}" title="{{ page.title }}"/></a>
+			<a href="{{ page.next.url }}" rel="next"><img itemprop="image" src="{{ page.comic-source | prepend:'/' | prepend:site.url }}" alt="{{ page.alt | default: page.title }}" title="{{ page.alt | default: page.title }}"/></a>
 		</figure>
 	Published on <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
 	</div>
