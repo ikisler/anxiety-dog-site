@@ -10,9 +10,9 @@ This is Billy. He is a dog.
 
 Billy began his life as a pound puppy, and had only been in a foster home for about a month when we met him. We took him home that day. It became very quickly apparent that he was going to need some extra attention. He was too afraid to go in through the front door, and only slightly less terrified of the back door, so I sat outside with him for four hours (yup, four) until he was comfortable enough to go inside. At that point, he had decided we were best friends.
 
-Life is a little more difficult when your afraid of going through doors.
+Life is a little more difficult when you're afraid of going through doors.
 
-Thus we began a journey of constant encouragement. He didn't understand much about the world. It was all scary - people, doors, cars, loud noises, sudden movements, other dogs, squeeky toys, et cetera. He wasn't the most functional creature to say the least. It was particularly difficult when he decided my partner (who is a largish man) was definitely big and intimidating and probably to blame for all the horrible things that kept happened (things like getting caught on laptop cords - that story later).
+Thus we began a journey of constant encouragement. He didn't understand much about the world. It was all scary - people, doors, cars, loud noises, sudden movements, other dogs, squeeky toys, et cetera. He wasn't the most functional creature to say the least. It was particularly difficult when he decided my partner (who is a largish man) was definitely big and intimidating and probably to blame for all the horrible things that kept happening (things like getting caught on laptop cords - that story later).
 
 Yet the world is still pretty interesting.
 

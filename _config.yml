@@ -18,16 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Anxiety Dog Comic
+author: Gretchen Kisler
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Life is a little more difficult when you're afraid of going through doors.
+
+
+  Despite his fear of just about everything, Billy was (and continues to be) pretty smart and inquisitive. He is a natural athlete. His favorite thing is running on the beach, and rock climbing like a ninja. He is a pretty happy little guy with the occasional flare ups of crippling anxiety, but these get easier as time goes on.
+
+
+  Billy began his life as a pound puppy, and had only been in a foster home for about a month when we met him. We took him home that day. It became very quickly apparent that he was going to need some extra attention. He was too afraid to go in through the front door, and only slightly less terrified of the back door, so I sat outside with him for four hours (yup, four) until he was comfortable enough to go inside. At that point, he had decided we were best friends.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://anxietydogcomic.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+feed:
+  path: rss
 
 # Build settings
 #theme: minima
