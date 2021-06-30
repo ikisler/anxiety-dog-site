@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Splash"
+date: 2021-06-29
+permalink: /comic/250
+comic-source: "assets/images/comics/Splash_fin.jpg"
+transcript: ""
+alt: "Why did the ground leave? And why am I wet now?"
+---
+
+It was a great time at the coast, even if the ground sometimes turned into water. Did not get that picture...
