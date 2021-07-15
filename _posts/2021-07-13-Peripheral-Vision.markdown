@@ -2,7 +2,7 @@
 layout: post
 title: "Peripheral Vision"
 date: 2021-07-13
-permalink: /comic/215
+permalink: /comic/252
 comic-source: "assets/images/comics/peripheralVision_fin.jpg"
 transcript: ""
 alt: "GOT IT"
