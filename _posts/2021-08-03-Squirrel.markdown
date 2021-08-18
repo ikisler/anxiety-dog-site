@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQUIRREL!"
-date: 2021-07-27
+date: 2021-08-03
 permalink: /comic/255
 comic-source: "assets/images/comics/squirrel_fin.jpg"
 transcript: ""
