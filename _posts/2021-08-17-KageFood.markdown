@@ -8,4 +8,4 @@ transcript: ""
 alt: "Yes, but he's eating in front of me"
 ---
 Every now and again we take care of Kage, and while Billy successfully co-exists with a dog all of the time, he's still very concerned that we'll forget about him
-Does this type appear in the next line?
+<br> How about now?
