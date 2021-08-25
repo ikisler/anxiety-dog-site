@@ -5,6 +5,7 @@ date: 2021-08-17
 permalink: /comic/256
 comic-source: "assets/images/comics/KageFood_fin2.jpg"
 transcript: ""
-alt: "Yes, but he's eating it in front of me"
+alt: "Yes, but he's eating in front of me"
 ---
 Every now and again we take care of Kage, and while Billy successfully co-exists with a dog all of the time, he's still very concerned that we'll forget about him
+Does this type appear in the next line?
