@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Manhole"
+date: 2021-10-05
+permalink: /comic/262
+comic-source: "assets/images/comics/ManHole_fin.jpg"
+transcript: ""
+alt: "but I could also smell super interesting"
+---
+Dog purfume. It's a must wear
