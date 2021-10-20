@@ -3,7 +3,7 @@ layout: post
 title: "Hello!"
 date: 2021-10-19
 permalink: /comic/263
-comic-source: "assets/images/comics/hello_fin.jpg"
+comic-source: "assets/images/comics/hello_fin2.jpg"
 transcript: ""
 alt: "There are some interesting smells now too!"
 ---
