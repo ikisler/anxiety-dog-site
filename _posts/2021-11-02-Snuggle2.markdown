@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hello!"
-date: 2021-10-19
-permalink: /comic/263
+title: "Snuggle"
+date: 2021-11-02
+permalink: /comic/264
 comic-source: "assets/images/comics/snuggle_fin.jpg"
 transcript: ""
 alt: "I just want to be warm, and not see the outside world"
