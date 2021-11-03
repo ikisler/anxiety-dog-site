@@ -3,8 +3,8 @@ layout: post
 title: "Hello!"
 date: 2021-10-19
 permalink: /comic/263
-comic-source: "assets/images/comics/hello_fin2.jpg"
+comic-source: "assets/images/comics/snuggle_fin.jpg"
 transcript: ""
-alt: "There are some interesting smells now too!"
+alt: "I just want to be warm, and not see the outside world"
 ---
-I can never use the bathroom unsupervised
+Once he discovered he could burrow into blankets, it became his number one goal at bedtime
