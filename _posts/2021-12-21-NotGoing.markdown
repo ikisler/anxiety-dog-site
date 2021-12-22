@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Not Going"
+date: 2021-12-21
+permalink: /comic/269
+comic-source: "assets/images/comics/notGoingAmI_fin.jpg"
+transcript: ""
+alt: "forever alone"
+---
+He picks up that we're not taking him along pretty quickly, and then he likes to go to his cave of solitude.
