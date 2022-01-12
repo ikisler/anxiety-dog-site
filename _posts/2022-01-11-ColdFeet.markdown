@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cold Feet"
-date: 2021-01-11
+date: 2022-01-11
 permalink: /comic/271
 comic-source: "assets/images/comics/cold_feet_fin.jpg"
 transcript: ""
