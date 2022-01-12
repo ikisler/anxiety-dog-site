@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cold Feet"
+date: 2021-1-11
+permalink: /comic/271
+comic-source: "assets/images/comics/cold_feet_fin.jpg"
+transcript: ""
+alt: "Beware the boots!"
+---
+We went to some proper snow, and  Billy enjoyed it for approximately two minutes before deciding it was too cold. He quickly needed his shoes and jacket (like most eight year olds in the snow)
