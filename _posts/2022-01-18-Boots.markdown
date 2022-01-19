@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Boots"
+date: 2022-01-18
+permalink: /comic/272
+comic-source: "assets/images/comics/boots_fin.jpg"
+transcript: ""
+alt: "They feel wierd"
+---
+So, he had to wear his boots and jacket to hang out with us in the snow. He does not like his boots in particular, but they were momentarily forgotton in persuit of arboreal tree rodents
