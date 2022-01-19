@@ -3,7 +3,7 @@ layout: post
 title: "Boots"
 date: 2022-01-18
 permalink: /comic/272
-comic-source: "assets/images/comics/boots_fin.jpg"
+comic-source: "assets/images/comics/boots_fin2.jpg"
 transcript: ""
 alt: "They feel wierd"
 ---
