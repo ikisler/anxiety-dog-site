@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter"
+title: "Can We Go Home?"
 date: 2021-09-28
 permalink: /comic/261
 comic-source: "assets/images/comics/CanWeGoHome_fin.jpg"
