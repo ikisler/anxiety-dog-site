@@ -5,6 +5,6 @@ date: 2022-02-08
 permalink: /comic/275
 comic-source: "assets/images/comics/kage_snow_fin.jpg"
 transcript: ""
-alt: "Nope, done walking"
+alt: "Done walking now"
 ---
 Kage seemed more comfortable in the snow than Billy. Much more comfortable
