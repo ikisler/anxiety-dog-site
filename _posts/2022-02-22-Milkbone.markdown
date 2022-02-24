@@ -5,7 +5,7 @@ date: 2022-02-16
 permalink: /comic/277
 comic-source: "assets/images/comics/Milkbone_fin.jpg"
 transcript: ""
-alt: "Much better Lady"
+alt: "Much better"
 ---
 Obviously this treat is too big to eat
 <BR> Happy Twosday everone!
