@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suspicioua"
+title: "Suspicious"
 date: 2022-03-22
 permalink: /comic/279
 comic-source: "assets/images/comics/Suspicious_fin.jpg"
