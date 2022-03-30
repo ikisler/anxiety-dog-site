@@ -2,7 +2,7 @@
 layout: post
 title: "Egg Face"
 date: 2022-03-29
-permalink: /comic/279
+permalink: /comic/280
 comic-source: "assets/images/comics/egg_face_fin.jpg"
 transcript: ""
 alt: "It was delicious"
