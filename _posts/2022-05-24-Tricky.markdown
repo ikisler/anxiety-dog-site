@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dog Eating Plants"
+date: 2022-05-24
+permalink: /comic/287
+comic-source: "assets/images/comics/Tricky_fin.jpg"
+transcript: ""
+alt: "I'm on to you human"
+---
+Billy is too smart for these kinds of tricks
