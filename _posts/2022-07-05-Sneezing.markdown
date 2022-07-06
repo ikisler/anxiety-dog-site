@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sneezing"
+date: 2022-07-05
+permalink: /comic/289
+comic-source: "assets/images/comics/Sneezing_fin.jpg"
+transcript: ""
+alt: "I will defend you! From the sneezes!"
+---
+Sneezing is never normal... at least when your Lani. She seems to take great exception to it
+<br> And we're back. A longer break than intended because Covid, booo
