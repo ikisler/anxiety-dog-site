@@ -1,0 +1,10 @@
+---
+layout: post
+title: "NOOOOM"
+date: 2022-08-09
+permalink: /comic/294
+comic-source: "assets/images/comics/nooom_fin.jpg"
+transcript: ""
+alt: "Look at me run Lady!"
+---
+My view as the dog goee running by
