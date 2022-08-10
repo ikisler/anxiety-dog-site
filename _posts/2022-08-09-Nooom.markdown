@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/nooom_fin.jpg"
 transcript: ""
 alt: "Look at me run Lady!"
 ---
-He's just checking that I'm still there
+Just checking that I'm still there
