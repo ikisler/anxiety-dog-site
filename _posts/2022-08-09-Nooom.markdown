@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/nooom_fin.jpg"
 transcript: ""
 alt: "Look at me run Lady!"
 ---
-My view as the dog goee running by
+He's just checking that I'm still there
