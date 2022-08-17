@@ -7,5 +7,5 @@ comic-source: "assets/images/comics/walk_fin.jpg"
 transcript: ""
 alt: "WalkWalkWalkWalkWalkWalkWalkWalk"
 ---
-Lani's human has been working away from home recently, so whenever I take Billy out, she does her best to convince me she also needs to come (she us usually successful). 
-Billy's concerned that somehow this means he won't come
+Lani's human has been working away from home recently, so whenever I take Billy out, she does her best to convince me she also needs to come (she is usually successful). 
+Billy's concerned that somehow this means he won't come.
