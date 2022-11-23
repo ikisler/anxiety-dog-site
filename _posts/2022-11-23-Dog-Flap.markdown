@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dog Flap"
+date: 2022-11-23
+permalink: /comic/305
+comic-source: "assets/images/comics/DogFlap_finSmaller.jpg"
+transcript: ""
+alt: "I'm not sure how this has happened"
+---
+Mistakes were made. We have a dog flap now :V
