@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/InNOut_fin.jpg"
 transcript: ""
 alt: "I want to be both in and out humans"
 ---
-Billy while visiting my parents became a full cat. He wanted to be both inside and also outside and needed the door opened repeatedly for him
+While visiting my parents, Billy became a full cat. He wanted to be both inside and also outside and needed the door opened repeatedly for him
