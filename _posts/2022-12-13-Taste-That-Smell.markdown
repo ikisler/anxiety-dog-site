@@ -8,3 +8,4 @@ transcript: ""
 alt: "Their keenly trained dog senses detect... chicken"
 ---
 They know exactly what that smell tastes like, and they want to taste some (by some I mean all, they want to taste it all)
+<br> Comic idea this week brought to you by Mr. Q
