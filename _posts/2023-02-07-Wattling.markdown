@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wattling"
+date: 2023-02-07
+permalink: /comic/314
+comic-source: "assets/images/comics/WattlingToThePark_fin.jpg"
+transcript: ""
+alt: "Everyday I'm Wattling"
+---
+Any time he is sick or injured, he still insists that we go to the park... however long it takes
