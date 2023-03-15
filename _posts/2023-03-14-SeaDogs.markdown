@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WSea Dogs"
+title: "Sea Dogs"
 date: 2023-03-14
 permalink: /comic/319
 comic-source: "assets/images/comics/SeaDogs_fin.jpg"
