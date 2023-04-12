@@ -1,0 +1,10 @@
+---
+layout: post
+title: "On Hold"
+date: 2023-04-11
+permalink: /comic/323
+comic-source: "assets/images/comics/OnHold_fin.jpg"
+transcript: ""
+alt: "Any minute... aaaaaany minute"
+---
+Recently we were at a convention. Billy was saying hi to people. All at once he decided that his big human was going to show up, and he mentally checked out.
