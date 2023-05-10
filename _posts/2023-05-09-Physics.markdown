@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Physics"
+date: 2023-05-09
+permalink: /comic/326
+comic-source: "assets/images/comics/physics_fin.jpg"
+transcript: ""
+alt: "I use relativity every time I chase a squirrel Lady"
+---
+He is behind us. This fact cannot be changed
