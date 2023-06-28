@@ -2,7 +2,7 @@
 layout: post
 title: "MEGA HUNGER DEATH"
 date: 2023-06-27
-permalink: /comic/331
+permalink: /comic/332
 comic-source: "assets/images/comics/TheBand_fin.jpg"
 transcript: ""
 alt: "WE ARE MEGA HUNGRY"
