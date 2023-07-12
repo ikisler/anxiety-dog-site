@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tasty Box"
+date: 2023-07-11
+permalink: /comic/333
+comic-source: "assets/images/comics/TastyBox_fin.jpg"
+transcript: ""
+alt: "It smells like it's making food exist"
+---
+He knows where the food comes from
