@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Mole"
+date: 2023-07-25
+permalink: /comic/335
+comic-source: "assets/images/comics/mole_fin.jpg"
+transcript: ""
+alt: "WHAT?!"
+---
+Billy is usually very excited about creatures, but I don't think he knew what to do with this one
