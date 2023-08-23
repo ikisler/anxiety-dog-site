@@ -3,7 +3,7 @@ layout: post
 title: "Vibrating"
 date: 2023-08-22
 permalink: /comic/339
-comic-source: "assets/images/comics/Vibrating_fin.jpg"
+comic-source: "assets/images/comics/Vibrating_fin2.jpg"
 transcript: ""
 alt: "CANNOT HOLD STILL"
 ---
