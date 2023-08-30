@@ -1,0 +1,7 @@
+permalink: /comic/330
+comic-source: "assets/images/comics/blueButt_fin.jpg"
+transcript: ""
+alt: "I &sbquo; m blue da ba dee da ba di"
+alt: "I&lsquo;m blue da ba dee da ba di"
+---
+We don't put detergent up there anymore.
