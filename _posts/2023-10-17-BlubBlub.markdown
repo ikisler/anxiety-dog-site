@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Blub Blub"
+date: 2023-10-17
+permalink: /comic/345
+comic-source: "assets/images/comics/BlubBlub_fin.jpg"
+transcript: ""
+alt: "It moves, and it makes noise unexpectedly"
+---
+We gave him a separate water dish, so he can drink water safely. We did have to put it where Kimbo wouldn't drink all the water however.
