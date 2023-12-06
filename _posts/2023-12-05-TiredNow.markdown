@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Tired Now"
+date: 2023-12-05
+permalink: /comic/350
+comic-source: "assets/images/comics/tiredNow_fin.jpg"
+transcript: ""
+alt: "We would like to monitor the turkey some more"
+---
+At the end of Thanksgiving. We noticed how very tired the dogs were. They normally do a lot of napping during the day, 
+but it was just too exciting for them to sleep at all.
