@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spaaaace"
-date: 2023-01-09
+date: 2024-01-09
 permalink: /comic/353
 comic-source: "assets/images/comics/Spaaaace_fin2.jpg"
 transcript: ""
