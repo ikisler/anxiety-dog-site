@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lollipop"
+date: 2024-01-16
+permalink: /comic/354
+comic-source: "assets/images/comics/lollipop_fin.jpg"
+transcript: ""
+alt: "How many licks does it take"
+---
+Billy does not accept that he is supposed to bite hard treats. He would much rather lick them. It's not very effective.
