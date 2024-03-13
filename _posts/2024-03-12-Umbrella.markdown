@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Umbrella"
+date: 2024-03-12
+permalink: /comic/360
+comic-source: "assets/images/comics/umbrella_fin.jpg"
+transcript: ""
+alt: "Brella-brella-brella"
+---
+Billy doesn't mind a bit of rain, but when there's enough he will sometimes walk under the umbrella. 
+I imagine it takes a fair amount of concentration for a busy dog like him.
