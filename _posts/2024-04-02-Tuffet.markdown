@@ -3,7 +3,7 @@ layout: post
 title: "Tuffet"
 date: 2024-04-02
 permalink: /comic/362
-comic-source: "assets/images/comics/tuffet_fin.jpg"
+comic-source: "assets/images/comics/tuffet_finV2.jpg"
 transcript: ""
 alt: "Are you really sure I can be here?"
 ---
