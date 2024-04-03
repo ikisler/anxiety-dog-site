@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/tuffet_fin.jpg"
 transcript: ""
 alt: "Are you really sure I can be here?"
 ---
-Mr Billy continues his quest to claim every fuzzy thing as a dog bed. In this case, Mr Q's office furniture.
+Mr Billy continues his quest to claim every fuzzy thing as a dog bed. In this case, Mr Q's office furniture. 
