@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Singing"
+date: 2024-04-16
+permalink: /comic/363
+comic-source: "assets/images/comics/Singing_fin.jpg"
+transcript: ""
+alt: "WAWAWAWAAAAWAAAA"
+---
+When Kimbo sees a squirrel, she feels the need to sing the song of her people. It's super fun for us and everyone else at the park!
