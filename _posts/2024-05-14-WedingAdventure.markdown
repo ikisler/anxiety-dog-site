@@ -7,7 +7,7 @@ comic-source: "assets/images/comics/weddingAdventure_fin.jpg"
 transcript: ""
 alt: "It was a good day!"
 ---
-Anothe Lofi comic this week
+Another Lofi comic this week
 <br>Billy was allowed to come to a wedding at a ranch with us, and he had a great time doing all the things! 
 He did decide he was done before the party was over and would curl up in his bed, but he kept coming to check on me to see if we were leaving yet.
 <br> Also he got to steal that big dog's bed several times over the weekend.
