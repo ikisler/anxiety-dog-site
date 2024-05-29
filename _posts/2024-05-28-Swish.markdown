@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Swish"
+date: 2024-05-28
+permalink: /comic/366
+comic-source: "assets/images/comics/Swish_fin.jpg"
+transcript: ""
+alt: "The dirtier the floor, the better"
+---
+Just a silly dog being silly
