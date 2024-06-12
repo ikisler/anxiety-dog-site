@@ -8,3 +8,4 @@ transcript: ""
 alt: "Why isn't this chicken easier to eat?"
 ---
 Billy is bad at eating things
+<br> Another lo-fi comic this week
