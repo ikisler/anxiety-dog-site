@@ -3,7 +3,7 @@ layout: post
 title: "Travel Insecurities"
 date: 2018-10-23
 permalink: /comic/127
-comic-source: "assets/images/comics/Comic2_fin.jpg"
+comic-source: "assets/images/comics/TravelInsecurities_fin.jpg"
 transcript: ""
 alt: "Travel Insecurities"
 ---
