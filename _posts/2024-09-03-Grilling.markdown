@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Grilling"
+date: 2024-09-03
+permalink: /comic/373
+comic-source: "assets/images/comics/Grilling_fin.jpg"
+transcript: ""
+alt: "Do you think he will give me the meats?"
+---
+Outdoor cooking time is the most exciting time.
