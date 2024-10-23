@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/HumanIsAway_fin.jpg"
 transcript: ""
 alt: "IT COULD BE HIM!?!"
 ---
-The Big Human is went on a business trip, and Billy is dealing with it in his own way.
+The Big Human went on a business trip, and Billy is dealing with it in his own way.
