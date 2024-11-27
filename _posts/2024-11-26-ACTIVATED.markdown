@@ -9,5 +9,6 @@ alt: "Target acquired"
 ---
 Ever play Portal? ANYWAY, Billy is very serious about finding creatures (and very bad about catching them for anyone who is worried)
 <BR>
+<BR>
 You may have noticed that posting has slowed down a bit. I decided to work on this project when I have a little more headspace to plan and draw something 
 rather than trying to force a comic every week (with mixed results). I still have a giant list of comic ideas, so we're probably not stopping anytime soon.
