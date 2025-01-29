@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Can I Go By?"
+date: 2025-01-28
+permalink: /comic/381
+comic-source: "assets/images/comics/CanIGoBy_fin.jpg"
+transcript: ""
+alt: "I don't really know what to do here..."
+---
+Billy is very polite and timid. Sometimes we meet other dogs who are equally polite and timid. It's not usually very productive.
