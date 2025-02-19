@@ -7,4 +7,4 @@ comic-source: "assets/images/comics/Ticks_fin.jpg"
 transcript: ""
 alt: "At least they are easy to spot?"
 ---
-The first time we took Billy to visit "nature", he jumped into a bush full of ticks (presumably left there by a deer). We had him for one week at that point. 
+The first time we took Billy to visit "nature", he jumped into a bush full of ticks (presumably left there by a deer). We only had him for one week at that point. 
