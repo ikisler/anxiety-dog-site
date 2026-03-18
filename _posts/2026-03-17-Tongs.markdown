@@ -3,7 +3,7 @@ layout: post
 title: "Tongs"
 date: 2026-03-17
 permalink: /comic/383
-comic-source: "Tongs_20scale.jpg"
+comic-source: "assets/images/comics/Tongs_20scale.jpg"
 transcript: ""
 alt: "Don't point those at me!"
 ---
