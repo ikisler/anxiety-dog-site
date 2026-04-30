@@ -2,7 +2,7 @@
 layout: post
 title: "You Are Hurt"
 date: 2026-03-31
-permalink: /comic/384
+permalink: /comic/385
 comic-source: "assets/images/comics/YouAreHurt_fin.jpg"
 transcript: ""
 alt: "The staring will help"
