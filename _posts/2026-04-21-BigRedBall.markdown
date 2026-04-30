@@ -2,7 +2,7 @@
 layout: post
 title: "Big Red Ball"
 date: 2026-04-21
-permalink: /comic/387
+permalink: /comic/388
 comic-source: "assets/images/comics/BigRedBall_fin.jpg"
 transcript: ""
 alt: "Kimbo likes big balls"
