@@ -2,7 +2,7 @@
 layout: post
 title: "SnowCrash"
 date: 2026-04-14
-permalink: /comic/386
+permalink: /comic/387
 comic-source: "assets/images/comics/SnowCrash_fin.jpg"
 transcript: ""
 alt: "SMALL DOG, ARE YOU HAVING FUN TOO?!"
